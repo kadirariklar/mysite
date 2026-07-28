@@ -135,6 +135,14 @@ a:hover {
     margin-top: 100px;
 
 }
+#golden {
+    height: 200px;
+    width: 200px;
+    float: right;
+    margin-top: 100px;
+    padding-left: 10px;
+
+}
 
 .profile {
     width: 50%;
@@ -146,6 +154,11 @@ a:hover {
 .about-me {
     margin-left: 200px;
     padding-top: 100px;
+
+}
+
+.about-me-2 {
+    padding-top: 150px;
 
 }
 
@@ -272,6 +285,14 @@ a:hover {
         margin: 75px 0 0;
     }
 
+    #golden {
+        height: 150px;
+        width: 150px;
+        float: right;
+        margin-top: 50px;
+        padding-left: 8px;
+    }
+
     #first-cloud {
         position: absolute;
         left: 125px;
@@ -317,6 +338,7 @@ a:hover {
         text-align: left;
         height: 150px;
     }
+    
 
     #myphoto {
         height: 150px;
@@ -329,6 +351,10 @@ a:hover {
         margin-left: 50px;
         padding-top: 50px;
 
+    }
+
+    .about-me-2 {
+        padding-top: 75px;
     }
 
     .h2 {
@@ -424,6 +450,14 @@ a:hover {
         margin: 40px 0 0;
     }
 
+    #golden {
+        height: 100px;
+        width: 100px;
+        float: right;
+        margin-top: 25px;
+        padding-left: 5px;
+    }
+
     #first-cloud {
         position: absolute;
         left: 30px;
@@ -481,6 +515,10 @@ a:hover {
         margin-left: 0px;
         padding-top: 50px;
 
+    }
+
+    .about-me-2 {
+        padding-top: 30px;
     }
 
     .h2 {
